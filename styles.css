@@ -28,7 +28,7 @@ body{
     padding:5px;
     border-radius:10px;
     color:navy;
-    font-size:1.2em;
+    font-size:1.1em;
 }
 
 header{
@@ -138,7 +138,7 @@ nav > a:active {
 #bottom h1{
     font-family: 'Merriweather', serif;
     color:rgb(100, 91, 4);
-    border-bottom:3px solid rgb(100, 91, 4);;
+    border-bottom:3px solid rgb(100, 91, 4);
     background-color: rgb(194, 181, 111);
     padding:5px 5px 5px;
     margin-right:15px;
